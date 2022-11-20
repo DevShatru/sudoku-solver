@@ -1,4 +1,4 @@
-"# sudoku-solver" 
+# Sudoku Solver
 
 A sudoku application meant to teach children/newcomers how to play Sudoku. The app allows the user to attempt a puzzle from a number of preset or randomly generated puzzles. They can get help from the app, wherein the app reveals the vavlue of one cell, and also the reasoning/logic behind the placement of that value.
 
